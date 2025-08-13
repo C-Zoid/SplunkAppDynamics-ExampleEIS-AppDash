@@ -3,6 +3,8 @@ This Splunk AppDynamics Application Dashboard Example can be used by anyone who 
 
 This will be used for the Observability Expert Insight Series (EIS) for Dashboarding on 8/21/2025
 
+NOTE: DOWNLOAD THE .JSON FILE ABOVE
+
 Instructions via controller UI:
 To Import Custom DashboardsLink to Import Custom Dashboards... You can import a dashboard file to create a new dashboard based on a previously exported one (Attached here). 
 
